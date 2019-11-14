@@ -20,7 +20,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 नमस्ते {}, मेरा नाम {} है! मैं यहां आपके ग्रूप को मैनज करने में आपकी सहायता करने के लिए हूं!.अगर आपके पास मुझे इस्तेमाल करने का कोई प्रश्न है तो /help पर क्लिक करे
 
-मैं ग्रुप मैनेजर बॉट हूं,मेरे [जन्मदाता](tg://user?id={}) ये है,मेरे भविष्य के अपडेट इस चैनल में डाले जाएंगे - @bksinghtech & और मेरा सपोर्ट ग्रुप @AndheraOfficial @OfficialMiUi है!
+मैं ग्रुप मैनेजर बॉट हूं,मेरे [जन्मदाता](tg://user?id={}) ये है,मेरे भविष्य के अपडेट इस चैनल में डाले जाएंगे - @bksinghtech & और मेरा सपोर्ट ग्रुप @TechSuperHit @OfficialMiUi है!
 
 मुझे  follow करे इंस्टाग्राम फेसबुक ट्विटर पर @bksinghtech @YourXOfficial
 कोई भी सहायता के लिए हमें मैसेज करे @YourX
