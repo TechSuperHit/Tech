@@ -23,7 +23,7 @@ PM_START_TEXT = """
 मैं ग्रुप मैनेजर बॉट हूं,मेरे [जन्मदाता](tg://user?id={}) ये है,मेरे भविष्य के अपडेट इस चैनल में डाले जाएंगे - @bksinghtech & और मेरा सपोर्ट ग्रुप @TechSuperHit @OfficialMiUi है!
 
 मुझे  follow करे इंस्टाग्राम फेसबुक ट्विटर पर @bksinghtech @YourXOfficial
-कोई भी सहायता के लिए हमें मैसेज करे @YourX
+कोई भी सहायता के लिए हमें मैसेज करे @YourX हमें अपना Feedback जरूर भेजे @XFeedbackBot पर
 अधिक कमांड के लिए /help पर क्लिक करें ...
 
 
