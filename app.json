@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/TheDarkW3b/Marie-Hindi",
+  "repository": "https://github.com/TechSuperHit/Marie-Hindi",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
