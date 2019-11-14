@@ -25,7 +25,7 @@
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "TechSuperHit"
+      "value": "YourX"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
